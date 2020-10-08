@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, JavaScript**
 
-- 👨‍💻 All of my projects are available at [www.paritakumbhani.com](www.paritakumbhani.com)
+- 👨‍💻 All of my projects are available at [www.paritakumbhani.com/](www.paritakumbhani.com)
 
 - 💬 Ask me about **React, HTML, CSS**
 
