@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parita Kumbhani</h1>
 <h3 align="center">A passionate frontend developer | Seeking Full time Oppotunity</h3>
 
-- 🔭 I’m currently working on **COVID-19 Tracker**
+- 🔭 I’m currently working on **Project bulid by Java Script**
 
 - 🌱 I’m currently learning **React.js, JavaScript**
 
